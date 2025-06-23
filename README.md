@@ -23,11 +23,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanGuilhermeDev&layout=compact&theme=transparent)
 
-### 🐍Snake Commits
-
-![snake gif](https://github.com/YanGuilhermeDev/YanGuilhermeDev/blob/output/github-contribution-grid-snake.svg)
-
-
 </div>
 
 ---
