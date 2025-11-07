@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor Full Stack <br/>
-  🚀 16 anos, apaixonado por tecnologia, inovação e resolver problemas com código.
+  🚀 17 anos, apaixonado por tecnologia, inovação e resolver problemas com código.
 </p>
 
 ---
